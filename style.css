@@ -7,6 +7,7 @@ header {
   background-color: #9FEE00;
   padding: 5px 10px 5px 10px;
   font-size: 36px;
+  text-decoration: none;
 }
 
 nav {
@@ -17,6 +18,8 @@ nav {
   color: black;
   font-size: 24px;
   margin-right: 35px;
+  text-decoration: none;
+  border-bottom: 2px solid black;
 }
 
 h1 {
