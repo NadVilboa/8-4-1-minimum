@@ -24,3 +24,33 @@ h1 {
   color: #2AB428;
   font-size: 96px;
 }
+
+p {
+  font-size: 36px;
+}
+
+ul {
+  font-size: 36px;
+  list-style: url("https://mars.algoritmika.org/uploads/2021/04/Arrow%201_0_1618309609.png");
+}
+
+.text-big {
+  font-size: 48px;
+}
+  
+.link-text {
+  color: blue;
+}
+
+h2 {
+  color: #006363;
+  font-size: 64px;
+}
+
+footer {
+  padding: 65px 0px 80px 80px;
+}
+
+.social {
+  margin-right: 60px;
+}
