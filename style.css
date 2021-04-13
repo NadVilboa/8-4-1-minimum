@@ -8,3 +8,10 @@ header {
   padding: 5px 10px 5px 10px;
 }
 
+nav {
+  padding: 35px 40px 35px 40px;
+}
+
+.link-nav {
+  color: black;
+}
