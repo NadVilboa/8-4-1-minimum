@@ -40,6 +40,11 @@ p {
 ul {
   font-size: 36px;
   list-style: url("https://mars.algoritmika.org/uploads/2021/04/Arrow%201_0_1618309609.png");
+  margin-left: 60px;
+}
+
+li {
+  margin-bottom: 20px;
 }
 
 ol {
