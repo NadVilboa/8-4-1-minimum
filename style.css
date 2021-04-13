@@ -33,12 +33,12 @@ h1 {
 }
 
 p {
-  font-size: 36px;
+  font-size: 24px;
   margin-left: 60px;
 }
 
 ul {
-  font-size: 36px;
+  font-size: 24px;
   list-style: url("https://mars.algoritmika.org/uploads/2021/04/Arrow%201_0_1618309609.png");
   margin-left: 60px;
 }
@@ -48,7 +48,7 @@ li {
 }
 
 ol {
-  font-size: 36px;
+  font-size: 24px;
   margin-left: 60px;
 }
 
